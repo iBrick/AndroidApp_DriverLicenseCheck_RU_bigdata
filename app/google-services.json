@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "197443860423",
+    "firebase_url": "https://taxivlad-6804f.firebaseio.com",
+    "project_id": "taxivlad-6804f",
+    "storage_bucket": "taxivlad-6804f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197443860423:android:97d7d2fdf478a8b7",
+        "android_client_info": {
+          "package_name": "com.example.vlad.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197443860423-nl3kqh84ndftqdi7pijp0du04l21r3je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIYP9_tbcUWoBOTmYgrqNvpYsHYrbCsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
